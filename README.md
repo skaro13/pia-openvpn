@@ -1,4 +1,4 @@
-[![logo](https://www.privateinternetaccess.com/images/newPIA_header_2x.png)](https://www.privateinternetaccess.com)
+[![logo](https://www.privateinternetaccess.com/press/logo-with-tag/pia-logo-black.png)](https://www.privateinternetaccess.com)
 
 # Private Internet Access
 Private Internet Access docker container
